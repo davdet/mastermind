@@ -1,5 +1,5 @@
-Davide Dettori (#909387)
-Università degli Studi di Milano, esame di Programmazione
+Davide Dettori (#909387)  
+Università degli Studi di Milano, esame di Programmazione  
 Docente: prof. Marco Anisetti
 
 # DESCRIZIONE DEL PROGETTO MASTERMIND
