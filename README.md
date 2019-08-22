@@ -1,15 +1,17 @@
-##mastermind
+# mastermind
 
 Davide Dettori (#909387)
+
 Università degli Studi di Milano, esame di Programmazione
+
 Docente: prof. Marco Anisetti
 
-DESCRIZIONE DEL PROGETTO MASTERMIND
+## DESCRIZIONE DEL PROGETTO MASTERMIND
 
 L’idea alla base è stata quella di sviluppare il gioco Mastermind, creando un’interfaccia pulita che non confondesse l’utente e dando al giocatore la possibilità di scegliere tra tre diverse difficoltà di gioco:
-    • FACILE: il giocatore deve decifrare una sequenza di 4 cerchi colorati;
-    • MEDIO: il giocatore deve decifrare una sequenza di 5 cerchi colorati;
-    • DIFFICILE: il giocatore deve decifrare una sequenza di 6 cerchi colorati.
+- FACILE: il giocatore deve decifrare una sequenza di 4 cerchi colorati;
+- MEDIO: il giocatore deve decifrare una sequenza di 5 cerchi colorati;
+- DIFFICILE: il giocatore deve decifrare una sequenza di 6 cerchi colorati.
 Per tutte le modalità di gioco, i cerchi possono essere di quattro differenti colori, anche ripetibili: rosso, giallo, verde e blu.
 
 Nel far ciò si è cercato di ridurre al minimo il codice del main, scrivendo opportune funzioni alle quali delegare lo svolgimento dei singoli compiti necessari. Il risultato è un codice per quanto più possibile suddiviso in blocchi indipendenti che rendono eventuali modifiche più agevoli. Il tutto è stato inoltre commentato dettagliatamente.
