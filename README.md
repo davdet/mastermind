@@ -48,4 +48,4 @@ A scopo dimostrativo, nello script sono state lasciate commentate alcune parti n
 
 Per lo stesso motivo è stata lasciata commentata la funzione charToInt la quale, dopo essere stata sviluppata, si è rivelata inutile ai fini del programma.
 
-Qualora per esigenze di controllo si volesse far partire il programma visualizzando sin da subito la sequenza da decifrare, basta decommentare la funzione printSequence alla linea 498.
+Qualora per esigenze di controllo si volesse far partire il programma visualizzando sin da subito la sequenza da decifrare, basta decommentare la funzione printSequence alla [linea 498](https://github.com/seeq-n-dstroi/mastermind/blob/97003b3fa5a091e45425ba0d10d3d583ef184818/main.c#L498).
