@@ -29,9 +29,7 @@ In questa sezione si trovano le macro dedicate alla formattazione delle parti gr
 
 ### 2 – VARIABILI GLOBALI E DICHIARAZIONI DELLE FUNZIONI
 
-All’inizio dello script si trovano anche le dichiarazioni delle funzioni e delle variabili globali.
-
-Il programma utilizza tre variabili globali, due delle quali vengono modificate dalla medesima funzione tramite l’utilizzo di un puntatore.
+All’inizio dello script si trovano anche le dichiarazioni delle funzioni e delle variabili globali. Il programma utilizza tre variabili globali.
 
 
 ### 3 – MAIN
