@@ -1,6 +1,8 @@
 /*
 ..::WHAT'S NEW::..
 
+v 1.4-beta - Eliminato il puntatore int_pointer.
+
 v 1.3-beta - Modificata macro INWHITE (correzione colore).
 
 v 1.2-beta - Inglobato il puntatore int_pointer nella funzione checkMatches.
@@ -418,7 +420,6 @@ void checkMatches(const char usrSeq[], const char cpuSeq[], const int sz)
 {
     int i, j;
     bool usrFlags[7], cpuFlags[7];
-    int *int_pointer;
     /*Variabile puntatore utilizzata per modificare i valori delle variabili globali blMatch e whMatch nella stessa funzione.*/
 
     for(i=0; i<7; i++)
