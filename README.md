@@ -15,7 +15,7 @@ Nel far ciò si è cercato di ridurre al minimo il codice del main, scrivendo op
 
 Particolare attenzione è stata inoltre posta ai controlli sugli input, in maniera tale da ridurre al minimo le possibilità di loop.
 
-Il programma è stato scritto utilizzando Code::Blocks IDE per Linux. Data la massiccia presenza di parti grafiche quali testi colorati e caratteri Unicode, si consiglia di compilare lo script utilizzando un compilatore C per Linux. Utilizzando Windows queste formattazioni potrebbero venire visualizzate in maniera errata. E' possibile compilare ed eseguire il programma visitando questo link: https://onlinegdb.com/BksWl6h4r
+Il programma è stato scritto utilizzando Code::Blocks IDE per Linux. Data la massiccia presenza di parti grafiche quali testi colorati e caratteri Unicode, si consiglia di compilare lo script utilizzando un compilatore C per Linux. Utilizzando Windows queste formattazioni potrebbero venire visualizzate in maniera errata. E' possibile compilare ed eseguire il programma online visitando questo link: https://onlinegdb.com/BkgOVTh4r
 
 Mastermind è stato interamente sviluppato da Davide Dettori, ad eccezion fatta dell’ASCII art iniziale per la quale è stato utilizzato il software Text to ASCII Art Generator (TAAG) di Patrick Gillespie, disponibile al seguente indirizzo: http://patorjk.com/software/taag
 
