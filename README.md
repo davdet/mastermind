@@ -48,4 +48,4 @@ A scopo dimostrativo, nello script sono state lasciate commentate alcune parti n
 
 Per lo stesso motivo è stata lasciata commentata la funzione charToInt la quale, dopo essere stata sviluppata, si è rivelata inutile ai fini del programma.
 
-Qualora per esigenze di controllo si volesse far partire il programma visualizzando sin da subito la sequenza da decifrare, basta decommentare la funzione printSequence alla linea 497.
+Qualora per esigenze di controllo si volesse far partire il programma visualizzando sin da subito la sequenza da decifrare, basta decommentare la funzione printSequence alla linea 498.
