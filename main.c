@@ -67,7 +67,7 @@ bool checkExit(const char usrSeq[]);
               printf(INWHITE " _____ ___ ___| |_ ___ ___ _____|_|___ _| | by\n");\
               printf(INWHITE "|     | .'|_ -|  _| -_|  _|     | |   | . | Davide\n");\
               printf(INWHITE "|_|_|_|__,|___|_| |___|_| |_|_|_|_|_|_|___| Dettori\n" INRESETCOLOR);\
-              printf("                                 v 1.3-beta\n");
+              printf("                                 v 1.4-beta\n");
 
 #define PROMPT printf("\n> ");
 #define CLEARSCR printf("\033[H\033[J");
